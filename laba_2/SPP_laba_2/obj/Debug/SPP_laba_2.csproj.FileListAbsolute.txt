@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\спп\SPP-master\laba_2\SPP_laba_2\bin\Debug\SPP_laba_2.exe.config
+C:\Users\User\Desktop\спп\SPP-master\laba_2\SPP_laba_2\bin\Debug\SPP_laba_2.exe
+C:\Users\User\Desktop\спп\SPP-master\laba_2\SPP_laba_2\bin\Debug\SPP_laba_2.pdb
+C:\Users\User\Desktop\спп\SPP-master\laba_2\SPP_laba_2\obj\Debug\SPP_laba_2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\спп\SPP-master\laba_2\SPP_laba_2\obj\Debug\SPP_laba_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\спп\SPP-master\laba_2\SPP_laba_2\obj\Debug\SPP_laba_2.exe
+C:\Users\User\Desktop\спп\SPP-master\laba_2\SPP_laba_2\obj\Debug\SPP_laba_2.pdb
+C:\Users\User\Desktop\спп\laba_2\SPP_laba_2\bin\Debug\SPP_laba_2.exe.config
+C:\Users\User\Desktop\спп\laba_2\SPP_laba_2\bin\Debug\SPP_laba_2.exe
+C:\Users\User\Desktop\спп\laba_2\SPP_laba_2\bin\Debug\SPP_laba_2.pdb
+C:\Users\User\Desktop\спп\laba_2\SPP_laba_2\obj\Debug\SPP_laba_2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\спп\laba_2\SPP_laba_2\obj\Debug\SPP_laba_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\спп\laba_2\SPP_laba_2\obj\Debug\SPP_laba_2.exe
+C:\Users\User\Desktop\спп\laba_2\SPP_laba_2\obj\Debug\SPP_laba_2.pdb
